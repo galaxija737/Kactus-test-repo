@@ -56,6 +56,10 @@
     {
       "class": "shapeGroup",
       "id": "FA555953-3DC0-4E57-8227-C8208EFBD251"
+    },
+    {
+      "class": "text",
+      "id": "77E3E0C9-E5A2-41A5-8D40-66CD7BB0DAF6"
     }
   ],
   "name": "Desktop HD",
